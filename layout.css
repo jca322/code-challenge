@@ -1,0 +1,23 @@
+.body {
+  background-color: var(--color-brand-secondary);
+  height: 100%;
+  padding: 0 106px;
+}
+
+@media (max-width: 1280px) {
+  .body {
+    padding: 0 60px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .body {
+    padding: 0 50px;
+  }
+}
+
+@media (max-width: 600px) {
+  .body {
+    padding: 0 16px;
+  }
+}

@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("/assets/fonts/CormorantGaramond-Regular.ttf") format("ttf")
+}
+
+@font-face {
+  font-family: "Proza Libre Regular";
+  src: url("/assets/fonts/ProzaLibre-Regular.ttf") format("ttf")
+}
+
+@font-face {
+  font-family: "Proza Libre SemiBold";
+  src: url("/assets/fonts/ProzaLibre-SemiBold.ttf") format("ttf")
+}

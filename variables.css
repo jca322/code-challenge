@@ -1,0 +1,26 @@
+:root {
+
+/* BASE COLORS */
+--color-black: #000;
+--color-gray: #5b5b5b;
+--color-gray-alt: #767673;
+--color-white: #fff;
+
+/* BRAND COLORS */
+--color-brand-primary: #146e4d;
+--color-brand-primary-alt: #dadfd2;
+--color-brand-primary-effect: #0b5439;
+--color-brand-secondary: #edede8; 
+
+/* FONT FAMILY */
+--font-cormorant: "Cormorant Garamond", serif;
+--font-proza-regular: "Proza Libre Regular", sans-serif;
+--font-proza-semibold: "Proza Libre SemiBold", sans-serif;
+
+/* FONT WEIGHT */
+--weight-light: 300;
+--weight-regular: 400;
+--weight-semibold: 600;
+--weight-bold: 700;
+--weight-black: 900;
+}
